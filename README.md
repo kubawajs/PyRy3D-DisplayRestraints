@@ -16,7 +16,7 @@ Extension is still in alpha version, so feel free to write about your experience
 
 ## Known bugs
 
-[ ] Example
+[] Example
 
 
 ### Version information
