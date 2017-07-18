@@ -20,7 +20,8 @@ Extension is still in alpha version, so feel free to write about your experience
 
 ## Logs
 
-* Latest stable version 0.1 pushed to branch development
+> 0.1.0
+>> Latest stable version 0.1 pushed to branch development
 
 
 ----------
