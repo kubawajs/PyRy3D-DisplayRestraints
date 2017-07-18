@@ -16,8 +16,11 @@ Extension is still in alpha version, so feel free to write about your experience
 
 ## Known bugs
 
-[] Example
+- [ ] Example
 
+## Logs
+
+* Latest stable version 0.1 pushed to branch development
 
 ### Version information
 
