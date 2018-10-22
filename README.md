@@ -1,6 +1,12 @@
 # PyRy3D-DisplayRestraints
 Extension for creating visualizations of distance restraints in PyRy3D Chimera Extension
 
+## Examples
+![alt example image 1](https://github.com/kubawajs/PyRy3D-DisplayRestraints/raw/alpha-0.1/example1.png)
+![alt example image 2](https://github.com/kubawajs/PyRy3D-DisplayRestraints/raw/alpha-0.1/example2.png)
+![alt example image 3](https://github.com/kubawajs/PyRy3D-DisplayRestraints/raw/alpha-0.1/example3.png)
+![alt example image 4](https://github.com/kubawajs/PyRy3D-DisplayRestraints/raw/alpha-0.1/example4.png)
+
 ## Installation
 
 1. Install _UCSF Chimera_ and _PyRy3D Chimera Extension_ - http://genesilico.pl/pyry3d/installing#gui-installation
